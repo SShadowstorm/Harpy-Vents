@@ -1,0 +1,40 @@
+{
+  "variants": {
+    "facing=down,open=false": {
+      "model": "harpyvents:block/vent_down_closed"
+    },
+    "facing=down,open=true": {
+      "model": "harpyvents:block/vent_down_open"
+    },
+    "facing=up,open=false": {
+      "model": "harpyvents:block/vent_up_closed"
+    },
+    "facing=up,open=true": {
+      "model": "harpyvents:block/vent_up_open"
+    },
+    "facing=north,open=false": {
+      "model": "harpyvents:block/vent_north_closed"
+    },
+    "facing=north,open=true": {
+      "model": "harpyvents:block/vent_north_open"
+    },
+    "facing=south,open=false": {
+      "model": "harpyvents:block/vent_south_closed"
+    },
+    "facing=south,open=true": {
+      "model": "harpyvents:block/vent_south_open"
+    },
+    "facing=west,open=false": {
+      "model": "harpyvents:block/vent_west_closed"
+    },
+    "facing=west,open=true": {
+      "model": "harpyvents:block/vent_west_open"
+    },
+    "facing=east,open=false": {
+      "model": "harpyvents:block/vent_east_closed"
+    },
+    "facing=east,open=true": {
+      "model": "harpyvents:block/vent_east_open"
+    }
+  }
+}

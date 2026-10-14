@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "harpyvents",
+  "version": "${version}",
+  "name": "Harpy Vents",
+  "description": "A keyed vent hatch for Harpy Express Extended mansion maps. Transport is not implemented.",
+  "environment": "*",
+  "entrypoints": { "main": ["community.harpyvents.HarpyVents"] },
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "1.21.1",
+    "java": ">=21",
+    "fabric-api": "*",
+    "wathe": "1.4.1-1.21.1",
+    "noellesroles": "1.7.5-h1.4"
+  }
+}
